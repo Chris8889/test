@@ -1,1 +1,1 @@
-import canvas from "@napi-rs/canvas"
+import { createCanvas } from "@napi-rs/canvas"
